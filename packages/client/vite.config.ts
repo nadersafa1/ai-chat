@@ -12,7 +12,7 @@ export default defineConfig({
     },
   },
   preview: {
-    allowedHosts: ['aichat.dishyy.com'],
+    allowedHosts: ['aichat.dishyy.com', 'hello.dishyy.com'],
   },
   // server: {
   //   proxy: {
